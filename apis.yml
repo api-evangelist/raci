@@ -1,0 +1,17 @@
+name: RACI
+description: A responsibility assignment matrix that defines roles and responsibilities
+  using four key designations - Responsible (those who do the work), Accountable (the
+  ultimate decision maker), Consulted (those whose input is needed), and Informed
+  (those who need to be kept updated). RACI matrices help clarify ownership, reduce
+  confusion, and improve project coordination by mapping stakeholders to specific
+  tasks or deliverables.
+url: https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+tags:
+- Project Management
+- Team Collaboration
+- Decision Making
+- Stakeholder Management
+created: '2025'
+modified: '2025'
+apis: []
+common: []
