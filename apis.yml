@@ -1,3 +1,4 @@
+aid: raci
 name: RACI
 description: A responsibility assignment matrix that defines roles and responsibilities
   using four key designations - Responsible (those who do the work), Accountable (the
@@ -5,13 +6,18 @@ description: A responsibility assignment matrix that defines roles and responsib
   (those who need to be kept updated). RACI matrices help clarify ownership, reduce
   confusion, and improve project coordination by mapping stakeholders to specific
   tasks or deliverables.
-url: https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/raci/refs/heads/main/apis.yml
 tags:
 - Project Management
 - Team Collaboration
 - Decision Making
 - Stakeholder Management
-created: '2025'
-modified: '2025'
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
