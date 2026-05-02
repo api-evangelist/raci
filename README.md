@@ -5,18 +5,21 @@ A responsibility assignment matrix that defines roles and responsibilities using
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
 
-## Tags:
+## Tags
 
- - Project Management, Team Collaboration, Decision Making, Stakeholder Management
+- Decision Making
+- Project Management
+- Stakeholder Management
+- Team Collaboration
+- Governance
+- Roles and Responsibilities
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
 
 ## Maintainers
 
